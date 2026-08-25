@@ -45,7 +45,7 @@ python3 -m unittest tests.tests
 ## Example
 
 ```
-python3 purrmodoro.py add_project "./tests/tests_files/switch"
+python3 purrmodoro.py add_project "./tests/tests_files/test_project1"
 ```
 
 **Credits**
