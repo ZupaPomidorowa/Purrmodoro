@@ -1,10 +1,10 @@
-# Motivation for coding
+# Purrmodoro
 
 A command line tool that tracks how much code you write and keeps you motivated inspired by the Pomodoro method. You work in focused sessions (usually 25 minutes) followed by a short break. After session you get a cat and a cat fact.
 
 This repository contains my interpretation of Project 1 presented during [course](https://gynvael.coldwind.pl/?id=803).
 
-<img width="2063" height="1108" alt="image" src="https://github.com/user-attachments/assets/209bd323-a691-43f5-8eaa-59ffff92eef6" />
+<img width="2078" height="1080" alt="image" src="https://github.com/user-attachments/assets/c7b6dc0d-36bc-456b-ad82-98a713dc9518" />
 
 ## Usage
 
